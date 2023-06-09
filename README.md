@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 :mailbox: Reach out to me !
 
-[![Twitter Badge](https://img.shields.io/badge/-@GanzyMalgwi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GanzyMalgwi)](https://twitter.com/GanzyMalgwi) [![Linkedin Badge](https://img.shields.io/badge/-Ibrahim-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//ibrahim-gana-malgwi/)[![Mail Badge](https://img.shields.io/badge/-IbrahimMalgwi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:Ibrahim.ganzymalgwi@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@GanzyMalgwi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GanzyMalgwi)](https://twitter.com/GanzyMalgwi) [![Linkedin Badge](https://img.shields.io/badge/-Ibrahim-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//ibrahim-gana-malgwi/) [![Mail Badge](https://img.shields.io/badge/-IbrahimMalgwi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:Ibrahim.ganzymalgwi@gmail.com)
 
 <!-- TODO: Add last video link -->
 
