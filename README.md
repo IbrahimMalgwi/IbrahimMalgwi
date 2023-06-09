@@ -24,13 +24,10 @@ Here are some ideas to get you started:
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently a trainee @Semicolon Africa
+- 🔭 I’m currently a Facilitator @Semicolon Africa
 - 🔭 Currently looking for internship or entry level job placement.
-- 🔭 Most used line of code `git commit -m "Initial Commit"`
+- 🔭 Most used line of code `git commit -m "The Feature name "`
 - 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: marvis.alimhiantare@gmail.com.
-<!-- - 😄 Pronouns: Marvis, ALIMHIANTARE, Marvechenky.
-- ⚡ Fun fact: I play games (COD my username Marvechenky). -->
 
 #### 1.0.1. Top Technologies
 
