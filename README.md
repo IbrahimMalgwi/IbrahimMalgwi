@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 [![Springboot Badge](https://img.shields.io/badge/-Springboot-61DBFB?style=for-the-badge&labelColor=green&logo=springboot&logoColor=61DBFB)](#) [![Django Badge](https://img.shields.io/badge/-Django-61DBFB?style=for-the-badge&labelColor=green&logo=django&logoColor=61DBFB)](#) 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=yellow&logo=python&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Java Badge](https://img.shields.io/badge/-Java-e535ab?style=for-the-badge&labelColor=white&logo=java&logoColor=e585ba)](#)
 
-[![Marvis ALIMHIANTARE github stats](https://github-readme-stats.vercel.app/api?username=Marvechenky)](https://github.com/anuraghazra/github-readme-stats)
+[![Ibrahim Gana Malgwi github stats](https://github-readme-stats.vercel.app/api?username=IbrahimMalgwi)](https://github.com/IbrahimMalgwi/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Marvechenky&" alt="Marvechenky" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimMalgwi&" alt="IbrahimMalgwi" /></p>
 
 
 
