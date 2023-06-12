@@ -25,9 +25,7 @@ Here are some ideas to get you started:
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently a Software Engineer @Semicolon Africa
-- 🔭 Currently looking for internship or entry level job placement.
-- 🔭 Most used line of code `git commit -m "The Feature name "`
-- 🤔 I’m looking for help with Outstanding Video ideas.
+- 🔭 🤔 I’m ready
 
 #### 1.0.1. Top Technologies
 
