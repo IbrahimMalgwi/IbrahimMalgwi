@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently a Software Engineer @Semicolon Africa
-- 🔭 🤔 I’m ready
+- 🔭 Changing the World One Line of Code at a Time
 
 #### 1.0.1. Top Technologies
 
