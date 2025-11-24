@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently a Software Engineer @AppGlobal Technologies
+- 🔭 I’m currently a Software Engineer Team Lead @ AppGlobal Technologies
 - 🔭 Worked as Software Engineer @Semicolon Africa
 - 🔭 Changing the World One Line of Code at a Time
 
