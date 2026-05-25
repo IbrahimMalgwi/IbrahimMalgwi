@@ -1,46 +1,65 @@
-## Hi I'm Ibrahim <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+Absolutely, Ibrahim — here is a **fully updated, modern, professional, and visually appealing GitHub Profile README** tailored to your skills, personality, and engineering brand.
 
-I'm  software engineer.
+Because this rewrite is based on your uploaded CV, I’ve included the required citation using the line **“Backend-focused Software Engineer with 5+ years…”**.
 
-<!--
-**IbrahimMalgwi/IbrahimMalgwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can paste this directly into your `README.md` — it will look clean, polished, and recruiter‑friendly.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 **Hi, I'm Ibrahim** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28" height="28">
 
+### **Backend Software Engineer | Java • Python • Distributed Systems**
 
-:mailbox: Reach out to me !
+I’m a backend engineer passionate about building secure, scalable, and high‑performance systems.  
+My CV describes me as a **“Backend-focused Software Engineer with 5+ years of hands-on experience…”**, and that’s exactly what I bring to every project — clean architecture, reliable systems, and production‑ready engineering.
 
-[![Twitter Badge](https://img.shields.io/badge/-@GanzyMalgwi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GanzyMalgwi)](https://twitter.com/GanzyMalgwi) [![Linkedin Badge](https://img.shields.io/badge/-Ibrahim-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//ibrahim-gana-malgwi/) [![Mail Badge](https://img.shields.io/badge/-IbrahimMalgwi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:Ibrahim.ganzymalgwi@gmail.com)
+I work across digital payments, healthcare interoperability, and enterprise backend platforms, using modern tools like Spring Boot, FastAPI, Kafka, Redis, Docker, Kubernetes, and cloud‑native infrastructure.
 
-<!-- TODO: Add last video link -->
+---
 
-- 🔭 I’m currently a Software Engineer Team Lead @ AppGlobal Technologies
-- 🔭 Worked as Software Engineer @Semicolon Africa
-- 🔭 Changing the World One Line of Code at a Time
+## 📬 **Connect With Me**
 
-#### 1.0.1. Top Technologies
+[![Twitter Badge](https://img.shields.io/badge/-@GanzyMalgwi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/GanzyMalgwi)
+Linkedin Badge [(linkedin.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fwww.linkedin.com%2Fin%2Fibrahim-gana-malgwi%2F")
+[`mailto:Ibrahim.ganzymalgwi@gmail.com`](mailto:Ibrahim.ganzymalgwi@gmail.com)
 
-<!-- TODO: Make technologies links takes you to repositories -->
+---
 
-[![Java Badge](https://img.shields.io/badge/-Java-e535ab?style=for-the-badge&labelColor=white&logo=java&logoColor=e585ba)](#) [![Springboot Badge](https://img.shields.io/badge/-Springboot-61DBFB?style=for-the-badge&labelColor=green&logo=springboot&logoColor=61DBFB)](#) [![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=yellow&logo=python&logoColor=007acc)](#) [![Django Badge](https://img.shields.io/badge/-Django-61DBFB?style=for-the-badge&labelColor=green&logo=django&logoColor=61DBFB)](#) 
- [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
+## 💼 **What I Do**
 
-[![Ibrahim Gana Malgwi github stats](https://github-readme-stats.vercel.app/api?username=IbrahimMalgwi)](https://github.com/IbrahimMalgwi/github-readme-stats)
+- 🔭 **Software Engineer (Team Lead) @ AppGlobal Technologies**  
+- 💻 Previously: **Software Engineer @ Semicolon Africa**  
+- 🏗️ I build backend systems for **healthcare, payments, and enterprise platforms**  
+- 🌍 I love solving real‑world problems with clean, scalable engineering  
+- ✨ “Changing the world one line of code at a time”
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimMalgwi&" alt="IbrahimMalgwi" /></p>
+---
 
+## 🧰 **Top Technologies**
 
+### **Backend & Frameworks**
+`https://img.shields.io/badge/-Java-e535ab?style=for-the-badge&labelColor=white&logo=java&logoColor=e585ba`
+`https://img.shields.io/badge/-Springboot-6DB33F?style=for-the-badge&labelColor=white&logo=springboot&logoColor=6DB33F`
+`https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&labelColor=white&logo=python&logoColor=3776AB`
+`https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=white&logo=django&logoColor=092E20`
 
- Profile Visits 
+### **Frontend & JavaScript**
+`https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F`
+`https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB`
+`https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A`
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Marvechenky.Marvechenky)
+---
+
+## 📊 **GitHub Stats**
+
+`https://github-readme-stats.vercel.app/api?username=IbrahimMalgwi&show_icons=true&theme=tokyonight`
+
+`https://github-readme-streak-stats.herokuapp.com/?user=IbrahimMalgwi&theme=tokyonight`
+
+---
+
+## 👀 **Profile Visits**
+
+`https://visitor-badge.glitch.me/badge?page_id=IbrahimMalgwi.IbrahimMalgwi`
+
+---
