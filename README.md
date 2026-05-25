@@ -43,6 +43,12 @@ I work across **digital payments**, **healthcare interoperability**, and **enter
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 
+### Mobile Development
+
+![React Native](https://img.shields.io/badge/-React%20Native-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&labelColor=white&logo=flutter&logoColor=02569B)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&labelColor=white&logo=dart&logoColor=0175C2)
+
 ### DevOps & Infrastructure
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=white&logo=docker&logoColor=2496ED)
