@@ -1,11 +1,3 @@
-Absolutely, Ibrahim — here is a **fully updated, modern, professional, and visually appealing GitHub Profile README** tailored to your skills, personality, and engineering brand.
-
-Because this rewrite is based on your uploaded CV, I’ve included the required citation using the line **“Backend-focused Software Engineer with 5+ years…”**.
-
-You can paste this directly into your `README.md` — it will look clean, polished, and recruiter‑friendly.
-
----
-
 # 🚀 **Hi, I'm Ibrahim** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28" height="28">
 
 ### **Backend Software Engineer | Java • Python • Distributed Systems**
