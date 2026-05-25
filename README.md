@@ -63,12 +63,12 @@ I work across **digital payments**, **healthcare interoperability**, and **enter
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IbrahimMalgwi&show_icons=true&theme=tokyonight&hide_border=true" alt="Ibrahim's GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimMalgwi&theme=tokyonight&hide_border=true" alt="Ibrahim's Streak Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IbrahimMalgwi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ibrahim's GitHub Stats" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=IbrahimMalgwi&theme=tokyonight&hide_border=true" alt="Ibrahim's Streak Stats" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimMalgwi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimMalgwi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
 </p>
 
 ---
