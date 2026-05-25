@@ -64,6 +64,7 @@ I work across **digital payments**, **healthcare interoperability**, and **enter
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IbrahimMalgwi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ibrahim's GitHub Stats" height="170" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=IbrahimMalgwi)](https://git.io/streak-stats)
   <img src="https://streak-stats.demolab.com/?user=IbrahimMalgwi&theme=tokyonight&hide_border=true" alt="Ibrahim's Streak Stats" height="170" />
 </p>
 
