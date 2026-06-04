@@ -2,8 +2,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Ibrahim+👋;Backend+Software+Engineer;Java+•+Python+•+Distributed+Systems;Cloud+Native+%7C+DevOps+%7C+Data+Systems" alt="Typing SVG" />
 
+# 🚀 Hi, I'm Ibrahim <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
+
+### Backend Software Engineer | Java • Python • Distributed Systems  
+### Cloud Native | DevOps | Data Systems
 </div>
 
 <div align="center">
