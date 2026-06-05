@@ -3,9 +3,9 @@
 <div align="center">
 
 
-# 🚀 Hi, I'm Ibrahim <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
+# 🚀 Hi, I'm Ibrahim Gana Mlgwi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
 
-### Backend Software Engineer | Java • Python • Distributed Systems  
+### Software Engineer | Java • Python • Distributed Systems  
 ### Cloud Native | DevOps | Data Systems
 </div>
 
